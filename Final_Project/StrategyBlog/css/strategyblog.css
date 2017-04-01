@@ -1,0 +1,54 @@
+/*     General Formats     */
+.wrapper {
+	width: 1000px;
+	height:900px;
+	margin: 0 auto;
+	padding: 0;
+}
+.footer{
+	text-align: center;
+}
+.form{
+	text-align: center;
+	color: #08bf31;
+}
+.hype_b_right {
+	float: right;
+}
+.login{
+	position: absolute;
+	top: 270px;
+	right: 350px;
+	color: #08bf31;
+}
+.register{
+	position: absolute;
+	top: 210px;
+	right: 530px;
+	color: #08bf31;
+}
+.welcome {
+	font-size: larger;
+}
+.header
+{
+	font-size: 64px;
+	text-align: center;
+	color: #243cbf;
+}
+h1 {
+	color: #bf0200;
+}
+h2 {
+	color: #08bf31;
+}
+p {
+	color: #08bf31;
+}
+p1 {
+	color: #08bf31;
+	font-size: 24px;
+}
+a {
+	color: #A6A7FF;
+}
